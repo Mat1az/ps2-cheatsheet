@@ -1,1 +1,1 @@
-# ps2hdd
+# PS2 HDD Internal - POPSTARTER
