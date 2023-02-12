@@ -3,7 +3,7 @@
 ## Directory Structure
  - **__.POPS**:
    - .VCD Files
-> SLUS.XX.Example Game.VCD
+   > SLUS.XX.Example Game.VCD
  - **__common/POPS**: 
    - VCD Folders
    - POPS.ELF
@@ -11,7 +11,7 @@
    - CHEATS.TXT
  - **+OPL/APPS**:
    - .ELF Files
-> SLUS.XX.Example Game.ELF
+   > SLUS.XX.Example Game.ELF
  - **+OPL**:
    - conf_apps.cfg
 
