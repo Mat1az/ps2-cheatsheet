@@ -14,5 +14,5 @@
    - conf_apps.cfg
 
 ## config_apps.cfg
- - Example Game=pfs0:/APPS/SLUS.XX.Example Game.ELF
+> Example Game=pfs0:/APPS/SLUS.XX.Example Game.ELF
 
