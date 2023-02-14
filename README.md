@@ -27,7 +27,6 @@
    base_name="${file%.*}"
    elf_file="$base_name.elf"
    dir_name="$base_name"
-
    cp popstarter.elf "$elf_file"
    mkdir "$dir_name"
  done
