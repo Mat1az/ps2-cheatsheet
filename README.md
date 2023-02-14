@@ -1,5 +1,5 @@
-# PS2 HDD Internal - POPSTARTER
-Guide to Setting Up POPSTARTER on PS2 with an Internal HDD (PS2 FAT or PS2 7000x IDE Hardmod)
+# PS2 HDD Internal - OPL POPSTARTER
+Guide to Setting Up OPL POPSTARTER on PS2 with an Internal HDD (PS2 FAT or PS2 7000x IDE Hardmod)
 
 ## Directory Structure
  - **__.POPS**:
