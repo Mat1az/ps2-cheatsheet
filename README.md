@@ -24,7 +24,7 @@ Guide to Setting Up OPL POPSTARTER on PS2 with an Internal HDD (PS2 FAT or PS2 7
  ```bash
  #!/bin/bash
 
- for file in *.vcd; do
+ for file in *.VCD; do
    base_name="${file%.*}"
    elf_file="$base_name.elf"
    dir_name="$base_name"
@@ -41,7 +41,7 @@ Guide to Setting Up OPL POPSTARTER on PS2 with an Internal HDD (PS2 FAT or PS2 7
  # Remove the list file if it already exists
  rm -f "$apps_file"
 
- for file in *.ELF; do
+ for file in *.VCD; do
    base_name="${file}"
    game_name=${base_name%.*}
    game_name=${game_name##*.}
