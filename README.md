@@ -4,20 +4,21 @@ Guide to Setting Up OPL POPSTARTER on PS2 with an Internal HDD (PS2 FAT or PS2 7
 ## Directory Structure
  - **__.POPS**:
    - .VCD Files
-   > SLUS.XX.Example Game.VCD
+   > SLUS.XX.VCD
  - **__common/POPS**: 
    - VCD Folders
+   > SLUS.XX
    - POPS.ELF
    - IOPRP252.IMG
    - CHEATS.TXT
  - **+OPL/APPS**:
    - .ELF Files
-   > SLUS.XX.Example Game.ELF
+   > SLUS.XX.ELF
  - **+OPL**:
    - conf_apps.cfg
 
 ## config_apps.cfg
- > Example Game=pfs0:/APPS/SLUS.XX.Example Game.ELF
+ > Example Game=pfs0:/APPS/SLUS.XX.ELF
 
 ## Some Bash Scripts
  > Generate **empty folders** & **.ELF files** for all .VCD files in the current directory (you need popstarter.elf)
